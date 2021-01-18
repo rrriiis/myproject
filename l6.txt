@@ -1,0 +1,8 @@
+https://colab.research.google.com/drive/1qMJt5oJac6IFfzASKcavDk4JejtpHwjw?usp=sharing
+https://colab.research.google.com/drive/1KD3yKn6MTfOi2F-gAG5n-VcXVqyA0oLe?usp=sharing
+https://colab.research.google.com/drive/1JaVMkHXbMkFkg9xJ9Ji5S_he_9Z1BqWb?usp=sharing
+https://colab.research.google.com/drive/190TabRVfDtasBq_nzok51wcGCGdt6-FN?usp=sharing
+https://colab.research.google.com/drive/1ZTkirY9PRYf22MLM4nhQC41VRhoDhpVk?usp=sharing
+https://colab.research.google.com/drive/1PYtv6Mt1qVWHoNiwSxxrSkGhLVuim7Cp?usp=sharing
+1) 4 6
+2) 4.35 -1.3 0.19 -0.01
